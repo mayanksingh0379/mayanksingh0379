@@ -20,7 +20,7 @@ Right now, I'm exploring **HTML, CSS, JavaScript, React, and Python** – and en
 
 - **🤖 VidyaMitra** – An AI-powered career guidance site for Indian students.  
   Not just another chatbot! You can search any career field, get detailed info + resources (from IIT JEE prep to Web Dev to AI/ML skills).  
-  Built with React (frontend), Node.js (backend), Gemini AI API, deployed with Vercel & Render. [VidyaMitra]([https://attenx.netlify.app/](https://vidya-mitra-frontend-eta.vercel.app/))
+  Built with React (frontend), Node.js (backend), Gemini AI API, deployed with Vercel & Render. [VidyaMitra]([https://attenx.netlify.app/](https://vidya-mitra-frontend-eta.vercel.app/)
 
 - **🐍 Python mini-tools** – My Python journey started with small scripts and tools. Nothing crazy, but every little program taught me something new.  
 
